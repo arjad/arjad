@@ -34,17 +34,4 @@
 
 
 <br><br><br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjad&show_icons=true&locale=en&layout=compact" alt="arjad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjad&show_icons=true&locale=en" alt="arjad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjad&" alt="arjad" /></p>
-
-
-
-![Snake animation](https://github.com/{{arjad}}/{{arjad}}/blob/output/github-contribution-grid-snake.svg)
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
-
 
