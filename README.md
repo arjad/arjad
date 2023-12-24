@@ -1,22 +1,25 @@
+<div style="position: relative;">
+  <img src="[url_to_your_gif](https://giphy.com/clips/xU5eJlXYuSC23SmrYL)" alt="Alt Text" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <p style="font-size: 24px; color: #ffffff; background: #000000; padding: 10px;">arjad</p>
+  </div>
+</div>
+
 <h1 align="center">Hi 👋, I'm Arjad Gohar</h1>
-<h3 align="center">A passionate FULL STACK developer from Pakistan</h3>
+<h3 align="center">
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+ FULL STACK developer from Pakistan
+</h3>
+<div>
+  <ul>
+<li> 🔭 I’m currently working on **Mongo Db and Redux**</li>
+<li> 👯 I’m looking to collaborate </li>
+<li> 💬 Ask me about **HTML, CSS, Java Script & React**</li>
+<li> 📫 How to reach me **arjadgohar14@gmail.com**</li>
+<li> ⚡ Fun fact **I am Funny ;)**</li>
+  </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjad&label=Profile%20views&color=0e75b6&style=flat" alt="arjad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjad" alt="arjad" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Mongo Db and Redux**
-
-- 👯 I’m looking to collaborate 
-
-- 💬 Ask me about **HTML, CSS, Java Script & React**
-
-- 📫 How to reach me **arjadgohar14@gmail.com**
-
-- ⚡ Fun fact **I am Funny ;)**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arjad gohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjad gohar" height="30" width="40" /></a>
