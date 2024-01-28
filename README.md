@@ -8,10 +8,10 @@
 </h3>
 <br>
   <ul>
-<li> 🔭 I’m currently working on <b>Rails</b></li>
-<li> 👯 I’m looking to collaborate </li>
-<li> 📫 How to reach me **arjadgohar14@gmail.com**</li>
-<li> ⚡ Fun fact **I am Funny ;)**</li>
+<li> I’m currently working on <b>Rails</b></li>
+<li> I’m looking to collaborate </li>
+<li> How to reach me **arjadgohar14@gmail.com**</li>
+<li> Fun fact **I am Funny ;)**</li>
   </ul>
 
   <h3 align="left">Connect with me:</h3>
@@ -19,7 +19,8 @@
 <a href="https://linkedin.com/in/arjad gohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjad gohar" height="30" width="40" /></a>
 <a href="https://instagram.com/arjadgohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjadgohar" height="30" width="40" /></a>
 </p>
-
+<h3 align="left">My Portfolio</h3>
+<d href="https://65b616c7de5e5f34b72a748c--deft-khapse-6df9c8.netlify.app/"> click here to reach my portfolio </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <ul align="center">
