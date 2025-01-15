@@ -38,6 +38,14 @@
   <a href="mailto:arjadgohar14@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" height="30" width="40" />
   </a>
+
+
+https://dev.to/arjad_gohar_f6d9b8938c997 dev.io
+https://stackoverflow.com/users/17586383/arjad-gohar stack overflow
+https://medium.com/@arjadgohar14 medium
+
+
+
 </p>
 
 </ul>
