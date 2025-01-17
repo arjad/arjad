@@ -58,6 +58,7 @@
 <p>
   <a href="https://dev.to/arjad_gohar_f6d9b8938c997" target="_blank">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" height="40" width="40" />
+    <span style="margin-left: 10px; font-size: 16px; font-weight: bold; color: #0e76a8;">Dev.io</span>
   </a>
 </p>
 <p>
