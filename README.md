@@ -1,4 +1,3 @@
-uni    gg
 <img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-top: 30px"/>
 
 <h3>👋 Hi, I'm Arjad Gohar</h3>
@@ -84,8 +83,8 @@ uni    gg
   <summary><b>Visit My Articles</b></summary>
   <p> I use to write tech articles on Medium, as well as dev.io </p>
   <ul>
-    <li> Medium Article </li>
-    <li>GitHub Repo: [Amazing App]([https://github.com/yourusername/amazing-app](https://medium.com/@arjadgohar14/inside-the-code-exploring-the-architecture-of-netflix-episode-1-4f3bc631ba8f))</li>
+    <li> Netflix Modal: https://medium.com/@arjadgohar14/inside-the-code-exploring-the-architecture-of-netflix-episode-1-4f3bc631ba8f </li>
+    <li> Tailwind Magic: https://medium.com/@arjadgohar14/why-tailwindcss-is-the-future-of-front-end-design-lets-discuss-5800ce368851</li>
   </ul>
 </details>
                   
