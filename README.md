@@ -3,7 +3,7 @@
 <h3>👋 Hi, I'm Arjad Gohar</h3>
 <p> A Full-stack developer crafting web applications </p>
 <p align="left"> How to reach me: <a href="mailto:arjadgohar14@gmail.com"><strong>arjadgohar14@gmail.com</strong></a></p>
-<p align="left"> Buy Me Coffee <strong>[arjadgohar14@gmail.com](https://ko-fi.com/arjad)</strong></p>
+<p align="left"> Buy Me Coffee <strong>https://ko-fi.com/arjad</strong></p>
 
 https://ko-fi.com/arjad
 <br>
