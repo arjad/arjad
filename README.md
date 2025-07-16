@@ -9,7 +9,7 @@
 
 ## 🚀 What I Bring to Your Project
 
-- 4 years of proven experience building scalable applications
+- 6 years of proven experience building scalable applications
 - HTML, CSS, and Tailwind CSS (utility-first, mobile-friendly design)
 - JavaScript & DOM manipulation (event handling, config injection)
 - Expert in modern front-end frameworks (React, Vue.js)  
