@@ -3,13 +3,12 @@
 <h3>👋 Hi, I'm Arjad Gohar</h3>
 <p> A Full-stack developer crafting web applications </p>
 <p align="left"> How to reach me: <a href="mailto:arjadgohar14@gmail.com"><strong>arjadgohar14@gmail.com</strong></a></p>
-<p align="left"> How to reach me: <a href="https://arjad-portfolio.netlify.app/"> Visit my portfolio </a></p>
 <p align="left"> Buy Me Coffee <strong>https://ko-fi.com/arjad</strong></p>
 <br>
 
 ## 🚀 What I Bring to Your Project
 
-- 6 years of proven experience building scalable applications
+- 4+ years of proven experience building scalable applications
 - HTML, CSS, and Tailwind CSS (utility-first, mobile-friendly design)
 - JavaScript & DOM manipulation (event handling, config injection)
 - Expert in modern front-end frameworks (React, Vue.js)  
