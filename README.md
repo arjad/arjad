@@ -1,53 +1,36 @@
 <img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-top: 30px"/>
 
 <h3>👋 Hi, I'm Arjad Gohar</h3>
-<p> A Full-stack developer crafting web applications </p>
+
+<a href="https://github.com/arjad"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&vCenter=true&width=460&lines=Full-stack+engineer;I+build+products+from+idea+to+launch;Web+apps+%E2%80%A2+SaaS+%E2%80%A2+AI+automations;React+%E2%80%A2+Vue+%E2%80%A2+Rails+%E2%80%A2+Python+%E2%80%A2+AWS" alt="Typing SVG" /></a>
+
+<p>Full-stack engineer who builds products end to end, from the first idea to a live product that scales.</p>
 <p align="left"> How to reach me: <a href="mailto:arjadgohar14@gmail.com"><strong>arjadgohar14@gmail.com</strong></a></p>
 <p align="left"> Buy Me Coffee <strong>https://ko-fi.com/arjad</strong></p>
 <br>
 
-## 🚀 What I Bring to Your Project
+## 🛠 What I Build
 
-- 4+ years of proven experience building scalable applications
-- HTML, CSS, and Tailwind CSS (utility-first, mobile-friendly design)
-- JavaScript & DOM manipulation (event handling, config injection)
-- Expert in modern front-end frameworks (React, Vue.js)  
-- Full-stack capabilities with Ruby on Rails and Python
-- Strong focus on clean code & best practices
-<br>
-<br>
-<br>
+- Complete products from scratch: web apps, SaaS platforms, dashboards and e-commerce
+- Fast, clean front ends with React, Vue.js and Tailwind CSS
+- Reliable back ends and APIs with Ruby on Rails, Python and PostgreSQL
+- AI automations: chat assistants, lead handling and workflow automation
+- Deployment and scaling on AWS, with a focus on clean code and performance
+- 4+ years of turning ideas into working software
 
-## 🌟 Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> HTML &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> CSS &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript &nbsp;&nbsp;
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> Sass &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="Tailwind" width="40" height="40"/> Tailwind CSS  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> Bootstrap
-</p>
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> React js &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> Vue js  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> AWS  
-</p>
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> Ruby &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> MongoDB  
-</p>
-<br>
-<br>
 <br>
 
-## 🤝 Connect With Me  
+## 🌟 Languages & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,react,vue&perline=8" alt="Front-end tools" /></a>
+  <br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ruby,rails,py,postgres,mongodb,aws&perline=8" alt="Back-end tools" /></a>
+</p>
+
+<br>
+
+## 🤝 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/arjad/" target="_blank" style="text-decoration: none;">
@@ -80,15 +63,12 @@
   </a>
 </p>
 <br>
-<br>
-<br>
 
 <details>
   <summary><b>Visit My Articles</b></summary>
   <p> I use to write tech articles on Medium, as well as dev.io </p>
   <ul>
     <li> Netflix Modal: https://medium.com/@arjadgohar14/inside-the-code-exploring-the-architecture-of-netflix-episode-1-4f3bc631ba8f </li>
-    <li> Tailwind Magic: https://medium.com/@arjadgohar14/why-tailwindcss-is-the-future-of-front-end-design-lets-discuss-5800ce368851</li>
+    <li> Tailwind Magic: https://medium.com/@arjadgohar14/why-tailwindcss-is-the-future-of-front-end-design-lets-discuss-5800ce368851 </li>
   </ul>
 </details>
-                  
